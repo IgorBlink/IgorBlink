@@ -35,6 +35,6 @@ Hello there! 👋 I’m a **Full-Stack Developer**, **Team Lead**, and **Telegra
 ---
 
 ### 📫 Connect with Me:  
-- 📱 **Telegram**: [Your Telegram Handle](https://t.me/IgorBlink)  
+- [📱 **Telegram**](https://t.me/IgorBlink)  
 
 Let’s build something amazing together! 🚀  
