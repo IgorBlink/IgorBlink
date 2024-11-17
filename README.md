@@ -29,7 +29,7 @@ Hello there! 👋 I’m a **Full-Stack Developer**, **Team Lead**, and **Telegra
 
 ### 📈 GitHub Stats:  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?IgorBlink&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorBlink&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBlink&layout=compact&theme=radical)  
 
 ---
