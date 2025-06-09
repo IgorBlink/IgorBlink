@@ -31,7 +31,6 @@ Hello there! 👋 I’m a **Full-Stack Developer**, **Team Lead**, and **Telegra
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBlink&layout=compact&theme=radical)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorBlink&show_icons=true&theme=radical)
 ---
 
 ### 📫 Connect with Me:  
