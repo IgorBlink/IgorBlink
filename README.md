@@ -4,7 +4,7 @@ Hello there! 👋 I’m a **Full-Stack Developer**, **Team Lead**, and **Telegra
 ---
 
 - [📱 **Telegram**](https://t.me/IgorBlink)
-- - [💼 **LinkedIn**](https://www.linkedin.com/in/igor-martynyuk/)   
+- [💼 **LinkedIn**](https://www.linkedin.com/in/igor-martynyuk/)   
 - [🐦 **Twitter / X**](https://x.com/IgorBlinkk)  
 - [🚀 **Product Hunt**](https://www.producthunt.com/@igor_martinyuk)  
 - [🌱 **Peerlist**](https://peerlist.io/igorblink)
