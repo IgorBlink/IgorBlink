@@ -1,7 +1,13 @@
 ### Welcome to My GitHub! 🌟  
 
 Hello there! 👋 I’m a **Full-Stack Developer**, **Team Lead**, and **Telegram Mini-Apps Expert** passionate about crafting efficient solutions, leading teams, and exploring innovative tech.  
+---
 
+- [📱 **Telegram**](https://t.me/IgorBlink)
+- - [💼 **LinkedIn**](https://www.linkedin.com/in/igor-martynyuk/)   
+- [🐦 **Twitter / X**](https://x.com/IgorBlinkk)  
+- [🚀 **Product Hunt**](https://www.producthunt.com/@igor_martinyuk)  
+- [🌱 **Peerlist**](https://peerlist.io/igorblink)
 ---
 
 ### 🛠️ My Tech Arsenal:  
@@ -31,9 +37,5 @@ Hello there! 👋 I’m a **Full-Stack Developer**, **Team Lead**, and **Telegra
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBlink&layout=compact&theme=radical)  
----
-
-### 📫 Connect with Me:  
-- [📱 **Telegram**](https://t.me/IgorBlink)  
 
 Let’s build something amazing together! 🚀  
