@@ -1,6 +1,6 @@
 ### Welcome to My GitHub! 🌟  
 
-Hello there! 👋 I’m a **Full-Stack Developer**, **Team Lead**, and **Telegram Mini-Apps Expert** passionate about crafting efficient solutions, leading teams, and exploring innovative tech.  
+Hello there! 👋 I’m a  16 y.o **Full-Stack Developer**, **Solo founder**, and **Telegram Mini-Apps Expert** passionate about crafting efficient solutions, leading teams, and exploring innovative tech.  
 ---
 
 - [📱 **Telegram**](https://t.me/IgorBlink)
